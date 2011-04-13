@@ -1,3 +1,12 @@
+python-django-ses (0.1-1sg2) lucid; urgency=low
+
+  [ Jeremy Grosser ]
+  * Add source/format
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 13 Apr 2011 21:25:53 +0000
+
 python-django-ses (0.1-1sg0) unstable; urgency=low
 
   * Initial release
