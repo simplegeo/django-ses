@@ -1,0 +1,12 @@
+Source: python-django-ses
+Section: misc
+Priority: extra
+Maintainer: Jeremy Grosser <jeremy@synack.me>
+Build-Depends: cdbs, debhelper (>= 7), python-support, python-setuptools
+Standards-Version: 3.8.3
+Homepage: https://github.com/hmarr/django-ses
+
+Package: python-django-ses
+Architecture: any
+Depends: ${python:Depends}, python-boto
+Description: Support for Amazon SES in Django
